@@ -1,3 +1,6 @@
 [submodule "superresolution_app"]
 	path = superresolution_app
 	url = https://github.com/Duong123-art/superresolution_app.git
+[submodule "Real-ESRGAN"]
+	path = Real-ESRGAN
+	url = https://github.com/leminhhuy132/Real-ESRGAN.git
