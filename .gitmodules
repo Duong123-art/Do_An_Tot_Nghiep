@@ -1,0 +1,3 @@
+[submodule "superresolution_app"]
+	path = superresolution_app
+	url = https://github.com/Duong123-art/superresolution_app.git
